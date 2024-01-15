@@ -1,6 +1,5 @@
 # House-Price-Prediction-Model
 
-<img width="612" alt="image" src="https://github.com/dedhiaraj2002/House-Price-Prediction-Model/assets/58104026/e88c3c4a-f683-443a-9d5a-2085ab0d1b53">
 
 In this project, the main aim is to predict the prices of houses available in Bengaluru.
 The price is mainly based upon the Area, Number of Bedrooms, Bathrooms, and the Locality of the house itself.
@@ -39,8 +38,8 @@ For model and modeling, the first step was data preprocessing which includes out
 4. Run the following command:
 	<pre> python start.py</pre>
 
-## Demo Video 
-<p align="center"> <img src="https://github.com/Ddhruv-IOT/Home-Price-Prediction-Project/blob/main/demo/demo.gif" alt="animated" /> </p>
+## Demo Photo 
+<img width="612" alt="image" src="https://github.com/dedhiaraj2002/House-Price-Prediction-Model/assets/58104026/e88c3c4a-f683-443a-9d5a-2085ab0d1b53">
 
 # Thank you
 - Thank you all for using my app.
