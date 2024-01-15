@@ -32,7 +32,7 @@ For model and modeling, the first step was data preprocessing which includes out
 
 ## Setting up on local machine: 
 1. Open git bash 
-2. git clone https://github.com/Ddhruv-IOT/Bengaluru-House-Price-Prediction.git
+2. git clone [https://github.com/Ddhruv-IOT/Bengaluru-House-Price-Prediction.git](https://github.com/dedhiaraj2002/House-Price-Prediction-Model)
 3. Install all the dependencies using requirements.txt (optional step):
 	<pre> pip install -r requirements.txt </pre>
 4. Run the following command:
